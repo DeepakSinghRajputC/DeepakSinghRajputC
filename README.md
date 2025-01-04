@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on developing a mini project .
 - 🌱 I’m currently learning MERN,Solidity.
 - 👯 I’m looking to collaborate on User-friendly websites.
-- 💬 Ask me abou: Outer Space 🌕
+- 💬 Ask me about : Outer Space 🌕
 - 📫 How to reach me: Social-Media 🌎
 - 😄 Pronouns: he/him 🙋‍♂️
 - ⚡ Fun fact: Ants can carry 10–50 times their own body weight!💪
