@@ -3,7 +3,7 @@
 **DeepakSinghRajputC/DeepakSinghRajputC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently working on developing a mini project .
-- 🌱 I’m currently learning MERN,Solidity.
+- 🌱 I’m currently learning Solidity for fun.
 - 👯 I’m looking to collaborate on User-friendly websites.
 - 💬 Ask me about : Outer Space 🌕
 - 📫 How to reach me: Social-Media 🌎
