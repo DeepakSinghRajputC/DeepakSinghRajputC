@@ -1,7 +1,6 @@
 # Hi coders, I'm Deepak Singh Rajput C! 👋
 ### Your friendly neighbourhood coder. 
 
-<img width="1011" height="674" alt="bestt-spider-coder" src="https://github.com/user-attachments/assets/dd94d869-b9ca-451f-b463-9c9f0c3e017e" />
 
 🤖 AI Developer  | 👨‍💻 Web Developer | Open Source Enthusiast | Problems to Solutions.
 
@@ -60,3 +59,4 @@ I'm passionate about the fact that we can use code to solve real-world problems 
 - [LinkedIn](https://www.linkedin.com/in/deepak-rajput-8763592aa)
 - [@i_am_Rajput27](https://x.com/i_am_Rajput27)
 ---
+<img width="1011" height="674" alt="bestt-spider-coder" src="https://github.com/user-attachments/assets/dd94d869-b9ca-451f-b463-9c9f0c3e017e" />
